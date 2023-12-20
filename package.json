@@ -1,0 +1,8 @@
+{
+  "name": "@activeadmin-plugins/active_admin_scoped_collection_actions",
+  "version": "0.5.0",
+  "description": "💪 Plugin for ActiveAdmin. Provides batch Update and Delete for scoped_collection (Filters + Scope) across all pages.",
+  "main": "/vendor/assets/javascripts/active_admin_scoped_collection_actions.js",
+  "style": "src/active_admin_sidebar.scss",
+  "license": "ISC"
+}
